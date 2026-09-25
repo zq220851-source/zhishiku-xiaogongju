@@ -1,0 +1,10 @@
+# Obsidian local plugin state and indexed vault data
+data.json
+embeddings.bin
+.obsidian/
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
